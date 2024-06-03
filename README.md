@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @kkornelius
+# 👋 Hi, I’m Kornelius
 - 🌱 I’m currently learning about Website Development
-- 📫 How to reach me DM on Instagram @onelevlv
+- 📫 How to reach me, DM on Instagram @onelevlv
 
 <!---
 kkornelius/kkornelius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
