@@ -34,8 +34,8 @@ I'm a passionate developer who loves problem-solving, clean code, and creating a
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kkornelius&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkornelius&theme=dracula&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats-ten-alpha-79.vercel.app/api?username=kkornelius&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-ten-alpha-79.vercel.app/api/top-langs/?username=kkornelius&theme=dracula&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
 </div>
 
 ---
