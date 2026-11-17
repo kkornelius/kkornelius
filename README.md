@@ -1,19 +1,14 @@
-<div align="center">
-  <img src="./assets/github-header-banner.png" alt="Header Banner" width="100%">
-  
-  <br><br>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Hello!,+Nice+to+see+YOU!!+👋;Web+Developer+💻;Love+learning+new+technologies+🚀;Let's+build+amazing+things!+✨" alt="Typing SVG" />
-</div>
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=kkornelius&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171548307%3Fu%3Dd619907dde56f695793b094249c0f0bb446cacf3%26v%3D4" alt="kkornelius hero visual" />
+</p>
 
----
 
 ## 👨‍💻 About Me
 
 I'm a passionate developer who loves problem-solving, clean code, and creating amazing web experiences. I believe great code should be both beautiful and functional.
 
-- 🌱 **Currently learning:** Web Development, Flutter, and AI integrations.
-- 💼 **Looking for:** Exciting **Tech Internship** opportunities to grow and contribute!
+- 🌱 **Currently learning:** Software Development and AI integrations.
+- 💼 **Looking for:** Opportunities to grow and contribute!
 
 ---
 
@@ -37,6 +32,14 @@ I'm a passionate developer who loves problem-solving, clean code, and creating a
   <img src="https://github-readme-stats-ten-alpha-79.vercel.app/api?username=kkornelius&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats-ten-alpha-79.vercel.app/api/top-langs/?username=kkornelius&theme=dracula&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
 </div>
+
+---
+
+## Projects
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=kkornelius&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F171548307%3Fu%3Dd619907dde56f695793b094249c0f0bb446cacf3%26v%3D4" alt="kkornelius projects visual" />
+</p>
 
 ---
 
